@@ -2,3 +2,5 @@
 
 - 🔭 I’m currently looking for a role in graphics programming.
 - ⚡ Just trying to learn something new each day!
+
+Check out my pinned projects!
